@@ -1,2 +1,3 @@
 # Naive_Bayes_Theorem
-Vehicle Stolen Dataset
+Explained Naive Bayes Classification Theorem 
+Link of the Post - 
